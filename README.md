@@ -6,3 +6,6 @@
 morningf@foxmail.com
 
 ![image](https://github.com/morningf/weapp-calendar/raw/master/二维码.jpg)
+
+# wx_calender_demo
+微信日历程序demo
