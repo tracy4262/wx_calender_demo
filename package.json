@@ -1,0 +1,25 @@
+{
+  "name": "weapp-calendar",
+  "version": "1.0.0",
+  "description": "微信日历程序",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morningf/weapp-calendar.git"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "tracy4262",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morningf/weapp-calendar/issues"
+  },
+  "homepage": "https://github.com/morningf/weapp-calendar#readme",
+  "dependencies": {
+    "iview": "^3.2.2"
+  }
+}
